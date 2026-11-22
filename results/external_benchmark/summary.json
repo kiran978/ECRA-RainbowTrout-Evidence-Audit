@@ -1,0 +1,110 @@
+{
+  "Dataset": "EXTERNAL SECONDARY BENCHMARK ONLY \u2014 NOT ECRA CONTROLLED QSAR",
+  "Evidence_Caveat": "The source lacks per-row original experimental study identifiers and independent human authentication; no ECRA QSAR approval is asserted.",
+  "External_Source": "https://github.com/zhaoqi106/ATFPGT-multi/blob/main/data_origin.csv",
+  "External_Source_Git_Blob_SHA": "42a433d1722e0c0e7b904eeb3d618466458e8917",
+  "Input_SHA256": "d0bbd9fc1e3337653ac05964772a1a4a2a4d8001df11b942b7dcdda5cac41e4d",
+  "Frozen_ECRA_SHA256": "955caa71d51ec18751947d488bbf003e629584b350827b73cf7e215d04a3524c",
+  "Row_Count_Source_RT": 1732,
+  "Source_Excluded_or_Outlier": 113,
+  "Baseline_Chemical_Rows": 1619,
+  "Invalid_CAS_After_Chemical_QC": 880,
+  "Strict_Row_Count": 739,
+  "Strict_Chemical_Count": 717,
+  "All_Valid_Structure_Chemical_Count": 1241,
+  "Overlap_ECRA_CAS_Strict": 23,
+  "Missing_Primary_Source_References": true,
+  "Chosen_Model": "ExtraTrees",
+  "Feature_Count": 524,
+  "Scaffold_Groups_Total": 388,
+  "Scaffold_Groups_Train": 310,
+  "Scaffold_Groups_Test": 78,
+  "Scaffold_Groups_Overlap": 0,
+  "Train_n": 620,
+  "Holdout_n": 97,
+  "Holdout": {
+    "n": 97,
+    "MAE": 0.8488837763450555,
+    "RMSE": 1.1060829834577528,
+    "R2": 0.518090234076046
+  },
+  "Train_In_Sample": {
+    "n": 620,
+    "MAE": 0.12198360252636348,
+    "RMSE": 0.21454769063696125,
+    "R2": 0.9791274026579914
+  },
+  "Train_CV_Models": {
+    "ExtraTrees": {
+      "n": 620,
+      "MAE": 0.7912297094193884,
+      "RMSE": 1.059734289904024,
+      "R2": 0.4907596818072538
+    },
+    "RandomForest": {
+      "n": 620,
+      "MAE": 0.7977245438595736,
+      "RMSE": 1.059767577096993,
+      "R2": 0.49072768992565363
+    },
+    "Ridge": {
+      "n": 620,
+      "MAE": 1.0104260046310711,
+      "RMSE": 1.296953859238644,
+      "R2": 0.2372576539590211
+    }
+  },
+  "Holdout_Group_Bootstrap_95CI": {
+    "MAE": [
+      0.7190459403982171,
+      0.974283616334959
+    ],
+    "RMSE": [
+      0.9443389434872747,
+      1.230424896495153
+    ],
+    "R2": [
+      0.34673875693971007,
+      0.6391085593310515
+    ]
+  },
+  "AD_Threshold_Training_NN_5thPercentile": 0.25376984126984126,
+  "Holdout_AD_Coverage": 0.9278350515463918,
+  "Holdout_AD_Inside_Metrics": {
+    "n": 90,
+    "MAE": 0.830676278880379,
+    "RMSE": 1.0693668570364412,
+    "R2": 0.5392864444501522
+  },
+  "Random_Chemical_Split_Sensitivity": {
+    "n": 144,
+    "MAE": 0.790359628533748,
+    "RMSE": 1.056309958072379,
+    "R2": 0.5690389167046146
+  },
+  "Structure_Only_Expanded_Sensitivity": {
+    "Full_Structure_Cohort": 1241,
+    "Strict_CAS_Cohort": 717,
+    "All_Structures_Holdout": {
+      "n": 193,
+      "MAE": 0.8477474661935858,
+      "RMSE": 1.1032847449521652,
+      "R2": 0.4789304709951996
+    }
+  },
+  "Final_QSAR_Controlled_Release": "HOLD",
+  "Unapproved_Predictive_Claims_Prohibited": true,
+  "Software": {
+    "rdkit": "2025.09.4",
+    "scikit_learn": "1.8.0"
+  },
+  "Baseline_Median_Holdout": {
+    "n": 97,
+    "MAE": 1.2908685301730531,
+    "RMSE": 1.6402565927931274,
+    "R2": -0.05977553480172082
+  },
+  "Train_OOF_P90_AbsoluteResidualHeuristic": 1.7695341203882533,
+  "Holdout_Empirical_Coverage_Train_OOF_90Pct_Band": 0.865979381443299,
+  "Interval_Caveat": "Heuristic train-OOF residual band. No conformal/external coverage guarantees under scaffold shift and unverified source groups."
+}

@@ -1,0 +1,108 @@
+﻿CAS,Chemical,Observation_Count,Reference_Count,References,Test_ID_Count,Test_IDs,Formulation_Codes,Life_Stage_Codes,Provisional_LC50_Min_mg_L,Provisional_LC50_Max_mg_L,Descriptive_Fold_Unverified,Prospective_Chemical_Fold,Identity_Approval,Primary_Source_Approval,Eligible_For_Modeling
+100-41-4,Ethylbenzene,1,1,13142,1,1152550,NR,NR,4.2,4.2,,2,HOLD,HOLD,NO
+100-52-7,Benzaldehyde,1,1,10775,1,1133135,NR,NR,11.2,11.2,,2,HOLD,HOLD,NO
+103-65-1,Propylbenzene,1,1,13142,1,1152570,NR,NR,1.55,1.55,,4,HOLD,HOLD,NO
+105-67-9,"2,4-Dimethylphenol",1,1,56473,1,1229377,PU,JV,9.2,9.2,,2,HOLD,HOLD,NO
+105-75-9,"(2E)-2-Butenedioic acid 1,4-dibutyl ester",1,1,12665,1,1149582,NR,NR,0.48,0.48,,3,HOLD,HOLD,NO
+106-42-3,"1,4-Dimethylbenzene",1,1,13142,1,1152562,NR,NR,2.6,2.6,,3,HOLD,HOLD,NO
+106-44-5,4-Methylphenol,1,1,569,1,1012557,NR,NR,7.9,7.9,,4,HOLD,HOLD,NO
+106-47-8,4-Chlorobenzenamine,1,1,3485,1,1050748,PU,NR,11.0,11.0,,3,HOLD,HOLD,NO
+106-51-4,"2,5-Cyclohexadiene-1,4-dione",2,1,569,2,1012542 | 1012543,NR,NR,0.045,0.125,2.77778,4,HOLD,HOLD,NO
+107-02-8,2-Propenal,2,2,112788 | 12665,2,1149492 | 1332743,NR,JV | NR,0.016,0.038,2.375,1,HOLD,HOLD,NO
+107-07-3,2-Chloroethanol,3,2,10775 | 12004,3,1133079 | 1143681 | 1143682,NR | PU,NR,35.6,54.6,1.53371,3,HOLD,HOLD,NO
+1071-83-6,N-(Phosphonomethyl)glycine,5,1,924,5,1026976 | 1026996 | 1027010 | 1027032 | 1027052,PU,JV,10.0,197.0,19.7,1,HOLD,HOLD,NO
+108-38-3,"1,3-Dimethylbenzene",1,1,13142,1,1152558,NR,NR,8.4,8.4,,3,HOLD,HOLD,NO
+108-39-4,3-Methylphenol,1,1,569,1,1012563,NR,NR,8.9,8.9,,2,HOLD,HOLD,NO
+108-88-3,Methylbenzene,2,2,13142 | 17137,2,1152546 | 1190896,NR,JV | NR,5.8,6.78,1.16897,3,HOLD,HOLD,NO
+108-90-7,Chlorobenzene,1,1,15457,1,1177653,NR,NR,4.7,4.7,,5,HOLD,HOLD,NO
+108-95-2,Phenol,3,3,12665 | 14755 | 864,3,1024489 | 1149531 | 1166354,NR | PU,NR,6.082,11.6,1.90727,2,HOLD,HOLD,NO
+109-77-3,Malononitrile,1,1,581,1,1012680,NR,JV,1.63,1.63,,2,HOLD,HOLD,NO
+111-90-0,2-(2-Ethoxyethoxy)ethanol,1,1,12004,1,1143612,NR,NR,13400.0,13400.0,,4,HOLD,HOLD,NO
+115-20-8,"2,2,2-Trichloroethanol",1,1,12004,1,1143653,PU,NR,229.0,229.0,,2,HOLD,HOLD,NO
+115-32-2,4-Chloro-alpha-(4-chlorophenyl)-alpha-(trichloromethyl)benzenemethanol,1,1,10536,1,1130626,AI,JV,0.21,0.21,,5,HOLD,HOLD,NO
+118-96-7,"2-Methyl-1,3,5-trinitrobenzene",1,1,73461,1,2056497,NR,NR,2.0,2.0,,4,HOLD,HOLD,NO
+120-80-9,"1,2-Benzenediol",1,1,569,1,1012566,NR,NR,8.9,8.9,,3,HOLD,HOLD,NO
+120-82-1,"1,2,4-Trichlorobenzene",1,1,12665,1,1149561,NR,NR,1.32,1.32,,2,HOLD,HOLD,NO
+1204-21-3,"2-Bromo-1-(2,5-dimethoxyphenyl)ethanone",1,1,10775,1,1133225,NR,NR,0.053,0.053,,1,HOLD,HOLD,NO
+121-82-4,"Hexahydro-1,3,5-trinitro-1,3,5-triazine",1,1,5962,1,1076861,NR,NR,6.4,6.4,,5,HOLD,HOLD,NO
+122-14-5,"Phosphorothioic acid O,O-dimethyl O-(3-methyl-4-nitrophenyl)ester",4,2,7317 | 7537,4,1101076 | 1101079 | 1101082 | 1103460,EC | PU,FI,1.34,2.0,1.49254,1,HOLD,HOLD,NO
+123-31-9,"1,4-Benzenediol",2,1,569,2,1012554 | 1012555,NR,NR,0.044,0.097,2.20455,3,HOLD,HOLD,NO
+123-54-6,"2,4-Pentanedione",3,2,10775 | 12004,3,1133098 | 1143665 | 1143666,NR | PU,NR,71.6,92.4,1.2905,5,HOLD,HOLD,NO
+124-40-3,N-Methylmethanamine,2,1,871,2,1024633 | 1024635,NR,NR,20.0,120.0,6.0,1,HOLD,HOLD,NO
+12427-38-2,"[[2-[(Dithiocarboxy)amino]ethyl]carbamodithioato(2-)-kappaS,kappaS']manganese",1,1,150853,1,1330496,AI,JV,0.81,0.81,,5,HOLD,HOLD,NO
+131-52-2,"2,3,4,5,6-Pentachlorophenol sodium salt (1:1)",1,1,864,1,1024483,PU,NR,0.23,0.23,,5,HOLD,HOLD,NO
+1320-18-9,"2-(2,4-Dichlorophenoxy)acetic acid 2-butoxymethylethyl ester",4,1,10642,4,1131925 | 1131926 | 1131927 | 1131928,AI,FY | SO,0.304,0.355,1.16776,5,HOLD,HOLD,NO
+149-30-4,2(3H)-Benzothiazolethione,1,1,112454,1,1291475,AI,NR,0.73,0.73,,3,HOLD,HOLD,NO
+149-31-5,"2-Methyl-1,3-pentanediol",1,1,12004,1,1143626,NR,NR,9450.0,9450.0,,5,HOLD,HOLD,NO
+151-21-3,Sulfuric acid monododecyl ester sodium salt (1:1),3,3,17931 | 47875 | 864,3,1024499 | 1198494 | 1224268,AI | NR,JV | NR | SI,4.62,24.9,5.38961,2,HOLD,HOLD,NO
+1686-59-5,Pimarol,1,1,608,1,1013024,NR,JV,0.3,0.3,,2,HOLD,HOLD,NO
+1686-64-2,"[IR-(1alpha,4a beta,4beta alpha,7alpha,10a alpha)]-7-Ethenyl-1,2,3,4,4a,5,6,7,8,10,10a-dodecahydro-1,4a,7-trimethyl-1-phenanthrene methanol",1,1,608,1,1013040,NR,JV,0.3,0.3,,5,HOLD,HOLD,NO
+17904-27-7,"[R-(R*,S*)]-4-(1,5-Dimethyl-3-oxohexyl)-1-cyclohexene-1-carboxylic acid, Methyl ester",1,1,844,1,1023258,PU,NR,1.5,1.5,,5,HOLD,HOLD,NO
+1897-45-6,"2,4,5,6-Tetrachloro-1,3-benzenedicarbonitrile",4,2,7055 | 87454,4,1098838 | 1257071 | 1257096 | 1257097,PU,NR,0.0105,0.076,7.2381,2,HOLD,HOLD,NO
+1918-02-1,"4-Amino-3,5,6-trichloro-2-pyridinecarboxylic acid",1,1,12633,1,1149324,PU,NR,15.6,15.6,,2,HOLD,HOLD,NO
+1929-73-3,"2-(2,4-Dichlorophenoxy)acetic acid, 2-Butoxyethyl ester",9,2,10642 | 3499,9,1050813 | 1050837 | 1050849 | 1131933 | 1131934 | 1131935 | 1131936 | 1131937 | 1131938,AI | PU,FY | NR | SO,0.452,3.689,8.1615,2,HOLD,HOLD,NO
+1945-53-5,Palustric acid,1,1,608,1,1013025,NR,JV,0.55,0.55,,1,HOLD,HOLD,NO
+2032-59-9,"4-(Dimethylamino)-3-methylphenol, Methylcarbamate (ester)",1,1,10668,1,1132203,PU,FI,23.1,23.1,,1,HOLD,HOLD,NO
+206-44-0,Fluoranthene,1,1,20588,1,1218415,PU,NR,0.0077,0.0077,,2,HOLD,HOLD,NO
+21725-46-2,"2-[[4-Chloro-6-(ethylamino)-1,3,5-triazin-2-yl]amino]-2-methylpropanenitrile",1,1,4442,1,1059717,AI,JV,4.0,4.0,,1,HOLD,HOLD,NO
+2425-06-1,"3a,4,7,7a-Tetrahydro-2-[(1,1,2,2-tetrachloroethyl)thio]-1H-isoindole-1,3(2H)-dione",1,1,13025,1,1151818,NR,NR,0.034,0.034,,4,HOLD,HOLD,NO
+2443-39-2,3-Octyl-2-oxiraneoctanoic acid,1,1,608,1,1013039,NR,JV,1.5,1.5,,3,HOLD,HOLD,NO
+2539-17-5,"3,4,5,6-Tetrachloroguaiacol",1,1,608,1,1013037,NR,JV,0.32,0.32,,3,HOLD,HOLD,NO
+2698-41-1,[(2-Chlorophenyl)methylene]propanedinitrile,1,1,581,1,1012688,NR,JV,0.22,0.22,,1,HOLD,HOLD,NO
+2921-88-2,"Phosphorothioic acid, O,O-Diethyl O-(3,5,6-trichloro-2-pyridinyl) ester",2,2,10536 | 10775,2,1130598 | 1133147,AI | PU,JV | NR,0.008,0.009,1.125,5,HOLD,HOLD,NO
+298-04-4,"Phosphorodithioic acid, O,O-Diethyl-S-[2-(ethylthio)ethyl] ester",1,1,10536,1,1130606,AI,JV,3.02,3.02,,1,HOLD,HOLD,NO
+298-46-4,"5H-Dibenz[b,f]azepine-5-carboxamide",1,1,153660,1,2028087,NR,JV,19.9,19.9,,5,HOLD,HOLD,NO
+30560-19-1,"N-Acetylphosphoramidothioic acid O,S-dimethyl ester",3,1,7317,3,1101092 | 1101095 | 1101098,SP,FI,724.0,852.0,1.1768,4,HOLD,HOLD,NO
+31557-34-3,"2,3,5-Trichloro-6-methoxypyridine",1,1,12605,1,1149028,NR,JV,4.6,4.6,,3,HOLD,HOLD,NO
+34128-01-3,"(Carboxymethoxy)butanedioic acid, Trisodium salt",1,1,17931,1,1198522,AI,SI,2300.0,2300.0,,4,HOLD,HOLD,NO
+3698-83-7,"1,5-Dichloro-2,4-dinitrobenzene",1,1,10775,1,1133186,NR,NR,0.026,0.026,,3,HOLD,HOLD,NO
+3772-55-2,Dehydroabietol,1,1,608,1,1013038,NR,JV,0.8,0.8,,3,HOLD,HOLD,NO
+3825-26-1,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-Pentadecafluorooctanoic acid, Ammonium salt (1:1)",1,1,151364,1,1335114,PU,NR,4001.0,4001.0,,5,HOLD,HOLD,NO
+3844-45-9,"N-Ethyl-N-[4[[4-[ethyl[(3-sulfophenyl)methyl]amino]phenyl](2-sulfophenyl)methylene]-2,5-cyclohexadien-1-ylidene]-3-sulfobenzenemethanaminium hydroxide inner salt disodium salt",3,1,5132,3,1063422 | 1063438 | 1063450,AI,JV,412.0,1474.0,3.57767,5,HOLD,HOLD,NO
+4901-51-3,"2,3,4,5-Tetrachlorophenol",1,1,10954,1,1134553,PU,NR,0.205,0.205,,3,HOLD,HOLD,NO
+51-28-5,"2,4-Dinitrophenol",1,1,12665,1,1149508,NR,NR,1.16,1.16,,2,HOLD,HOLD,NO
+51235-04-2,"3-Cyclohexyl-6-(dimethylamino)-1-methyl-1,3,5-triazine-2,4-(1H,3H)dione",3,1,13181,3,1152797 | 1152809 | 1152829,AI,JV,257.0,1964.0,7.64202,4,HOLD,HOLD,NO
+51630-58-1,4-Chloro-alpha-(1-methylethyl)benzeneacetic acid cyano(3-phenoxyphenyl)methyl ester,2,2,10536 | 12019,2,1130614 | 1143891,AI | NR,JV | NR,0.000172,0.0021,12.2093,5,HOLD,HOLD,NO
+52315-07-8,"3-(2,2-Dichloroethenyl)-2,2-dimethylcyclopropanecarboxylic acid cyano(3-phenoxyphenyl)methyl ester",4,3,15231 | 171153 | 4442,4,1059822 | 1175859 | 1175860 | 2167888,AI | EC | PU,JV | NR,0.0005,0.0047,9.4,1,HOLD,HOLD,NO
+53404-31-2,"2-(2,4-Dichlorophenoxy)propanoic acid 2-butoxyethyl ester",3,1,3499,3,1050870 | 1050894 | 1050906,PU,NR,0.9,1.8,2.0,5,HOLD,HOLD,NO
+55-63-0,"1,2,3-Propanetriol, 1,2,3-Trinitrate",1,1,17395,1,2056578,NR,FI,1.9,1.9,,1,HOLD,HOLD,NO
+55335-06-3,"2-[(3,5,6-Trichloro-2-pyridinyl)oxy]acetic acid",1,1,12605,1,1149052,NR,JV,7.5,7.5,,5,HOLD,HOLD,NO
+57055-38-6,Monochlorodehydroabietic acid,1,1,608,1,1013028,NR,JV,0.6,0.6,,5,HOLD,HOLD,NO
+57055-39-7,"[1R-(1alpha,4a beta,10a alpha)]-Dichloro-1,2,3,4,4a,9,10,10a-octahydro-1,4a-dimethyl-7-(1-methylethyl)-1-phenanthrenecarboxylic acid",1,1,608,1,1013030,NR,JV,0.6,0.6,,1,HOLD,HOLD,NO
+57213-69-1,"2-[(3,5,6-Trichloro-2-pyridinyl)oxy]acetic acid compd. with N,N-diethylethanamine (1:1)",1,1,12605,1,1149004,NR,JV,420.0,420.0,,4,HOLD,HOLD,NO
+57571-05-8,"2-(2,4-Dichlorophenoxy)propanoic acid, 2-Butoxyethyl ester mixt. with 2-butoxyethyl (2,4-dichlorophenoxy)acetate",3,1,3499,3,1050908 | 1050932 | 1050944,NR,NR,3.7,6.0,1.62162,2,HOLD,HOLD,NO
+5829-48-1,"9,10-Dichlorooctadecanoic acid",1,1,608,1,1013031,NR,JV,2.5,2.5,,2,HOLD,HOLD,NO
+59756-60-4,1-Methyl-3-phenyl-5-[3-(trifluoromethyl)phenyl]-4(1H)pyridinone,1,1,12170,1,1144983,AI,NR,8.1,8.1,,2,HOLD,HOLD,NO
+60-57-1,"(1aR,2R,2aS,3S,6R,6aR,7S,7aS)-rel-3,4,5,6,9,9-Hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-2,7:3,6-dimethanonaphth[2,3-b]oxirene",1,1,61182,1,1233073,PU,FI,0.00823,0.00823,,2,HOLD,HOLD,NO
+61711-25-9,AS (Surfactant),1,1,110632,1,2003311,AI,NR,0.33,0.33,,2,HOLD,HOLD,NO
+618-87-1,"3,5-Dinitrobenzenamine",1,1,11830,1,1141053,PF,NR,2.99,2.99,,2,HOLD,HOLD,NO
+61966-36-7,Trichloroguaiacol,1,1,608,1,1013043,NR,JV,0.75,0.75,,4,HOLD,HOLD,NO
+62-53-3,Benzenamine,3,2,15588 | 58703,3,1179060 | 1230731 | 1230732,NR,JV,10.6,30.0,2.83019,1,HOLD,HOLD,NO
+64700-56-7,"[(3,5,6-Trichloro-2-pyridinyl)oxy]acetic acid, 2-Butoxyethyl ester",2,1,12605,2,1149076 | 1149124,NR,JV,1.1,2.7,2.45455,1,HOLD,HOLD,NO
+65-30-5,3-[(2S)-1-Methyl-2-pyrrolidinyl]pyridine sulfate (2:1),1,1,12665,1,1149523,NR,NR,7.31,7.31,,1,HOLD,HOLD,NO
+6515-38-4,"3,5,6-Trichloro-2(1H)-pyridinone",1,1,12605,1,1149100,NR,JV,1.5,1.5,,4,HOLD,HOLD,NO
+666-84-2,"(1R-(1x,4a,4b,10a))-1,2,3,4,4a,4b,5,6,10,10a-Decahydro-1,4a-dimethyl-7-(1-methylethyl)-1-phenanthrenemethanol",1,1,608,1,1013023,NR,JV,1.8,1.8,,2,HOLD,HOLD,NO
+67-56-1,Methanol,1,1,11988,1,1143525,NR,JV,20100.0,20100.0,,2,HOLD,HOLD,NO
+67-66-3,Trichloromethane,5,1,5267,5,1065323 | 1065324 | 1065328 | 1065330 | 1065334,NR,JV,15.1,22.1,1.46358,3,HOLD,HOLD,NO
+67-72-1,"1,1,1,2,2,2-Hexachloroethane",2,2,10775 | 12004,2,1133118 | 1143696,NR | PU,NR,0.97,1.18,1.21649,2,HOLD,HOLD,NO
+68-12-2,"N,N-Dimethylformamide",1,1,11988,1,1143503,NR,JV,9800.0,9800.0,,5,HOLD,HOLD,NO
+68411-30-3,"Benzenesulfonic acid, C10-13 Alkylderivs., Sodium salts",1,1,47875,1,1224273,AI,JV,5.0,5.0,,1,HOLD,HOLD,NO
+68951-67-7,"Alcohols, C14-15, Ethoxylated",1,1,17931,1,1198508,AI,SI,0.7,0.7,,3,HOLD,HOLD,NO
+71-43-2,Benzene,2,2,13142 | 17889,2,1152542 | 1198286,NR,JV | NR,5.3,5.9,1.11321,2,HOLD,HOLD,NO
+72-20-8,"3,4,5,6,9,9-Hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-[2,7:3,6-dimethanonaphth[2,3-b]oxirene,[1a alpha,2 beta,2a beta,3 alpha,6 alpha,6a beta,7 beta,7a alpha]",1,1,12004,1,1143738,PU,NR,0.00033,0.00033,,1,HOLD,HOLD,NO
+78-83-1,2-Methyl-1-propanol,1,1,12004,1,1143640,NR,NR,1330.0,1330.0,,4,HOLD,HOLD,NO
+8065-48-3,"Phosphorothioic acid, O,O-Diethyl O-[2-(ethylthio)ethyl] ester mixt. with O,O-diethyl S-[2-(ethylthio)ethyl] phosphorothioate",1,1,12665,1,1149555,NR,NR,0.151,0.151,,5,HOLD,HOLD,NO
+81406-37-3,"2-[(4-Amino-3,5-dichloro-6-fluoro-2-pyridinyl)oxy]acetic acid 1-methylheptyl ester",3,1,5060,3,1062590 | 1062596 | 1062602,AI,JV,12.0,17.0,1.41667,1,HOLD,HOLD,NO
+83-32-9,Acenaphthene,1,1,10417,1,1129512,PU,NR,0.67,0.67,,5,HOLD,HOLD,NO
+83-79-4,"[2R-(2-alpha, 6a-alpha, 12a-alpha)]-1,2,12,12a-Tetrahydro-8,9-dimethoxy-2-(1-methylethenyl)-[1]-benzopyrano[3,4-b]furo[2,3-h][1]benzopyran-6(6aH)-one",1,1,12665,1,1149539,NR,NR,0.005,0.005,,5,HOLD,HOLD,NO
+85-01-8,Phenanthrene,1,1,61212,1,1262160,NR,NR,0.375,0.375,,3,HOLD,HOLD,NO
+88-06-2,"2,4,6-Trichlorophenol",1,1,12665,1,1149575,NR,NR,0.73,0.73,,5,HOLD,HOLD,NO
+89-98-5,o-Chlorobenzaldehyde,1,1,581,1,1012684,NR,JV,2.45,2.45,,3,HOLD,HOLD,NO
+91-20-3,Naphthalene,1,1,17889,1,1198288,NR,JV,1.6,1.6,,4,HOLD,HOLD,NO
+95-47-6,"1,2-Xylene",2,2,12665 | 13142,2,1149568 | 1152554,NR,NR,7.6,8.05,1.05921,4,HOLD,HOLD,NO
+95-48-7,2-Methylphenol,1,1,569,1,1012560,NR,NR,8.4,8.4,,5,HOLD,HOLD,NO
+95-95-4,"2,4,5-Trichlorophenol",2,1,56474,2,1229436 | 1229437,NR,NR,0.249,0.274,1.1004,5,HOLD,HOLD,NO
+96489-71-3,"4-Chloro-2-(1,1-dimethylethyl)-5-[[[4-(1,1-dimethylethyl)phenyl]methyl]thio]-3(2H)pyridazinene",1,1,117771,1,1318200,NR,NR,0.00073,0.00073,,1,HOLD,HOLD,NO
+98-82-8,Cumene,1,1,13142,1,1152566,NR,NR,2.7,2.7,,1,HOLD,HOLD,NO
+99-35-4,"1,3,5-Trinitrobenzene",1,1,11830,1,1141031,PF,NR,0.52,0.52,,5,HOLD,HOLD,NO
+99-65-0,"1,3-Dinitrobenzene",1,1,11830,1,1141063,PF,NR,1.7,1.7,,2,HOLD,HOLD,NO
