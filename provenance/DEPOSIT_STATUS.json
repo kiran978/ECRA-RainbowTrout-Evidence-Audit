@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-22",
+  "dataset_observations": 169,
+  "distinct_cas": 107,
+  "reference_ids": 59,
+  "source_numerical_matches": 22,
+  "trout_compatible_matches": 20,
+  "pending_primary_tables": 27,
+  "approved_ecra_qsar_rows": 0,
+  "qsar_release": "HOLD",
+  "repository_target": "kiran978/ECRA-RainbowTrout-Evidence-Audit",
+  "staging_release": "PRIVATE_WORKING_SNAPSHOT",
+  "curated_archive_files": 194,
+  "excluded_archive_members": 12
+}
